@@ -1,0 +1,143 @@
+#header-background{
+  background-image:url("sky.jpg");
+  height:1050px;
+width:1100px;
+position: absolute;
+margin-left: 13.5% ;
+margin-top: 0;
+}
+#header-tittle{
+  color: #ffffff;
+  font-size: 50px;
+  margin-left: 20% ;
+}
+#pink-V-L{
+  background: #FF0099;
+  margin-top: 0;
+  height: 1000px;
+  width:2%;
+float: left;
+position:relative;
+  }
+  #pink-V-R{
+    background: #FF0099;
+    margin-top: 0;
+    height: 1000px;
+    width:2%;
+  float: right;
+  position:relative;
+    }
+    #orange-V-L{  background: #e2a741;
+      margin-top: 0;
+      height: 1100px;
+      width:4%;
+    float: left;
+    position:relative;
+      }
+      #orange-V-R{  background:#e2a741;
+        margin-top: 0;
+        height: 1100px;
+        width:4%;
+      float: right;
+      position:relative;
+        }
+    #blue-V-L {
+      background: #44accf;
+      margin-top: 0;
+      height: 1200px;
+      width:5%;
+    float: left;
+    position:relative;
+
+    }
+    #blue-V-R {
+      background: #44accf;
+      margin-top: 0;
+      height: 1200px;
+      width:5%;
+    float: right;
+    position:relative;
+
+    }
+    .location{
+    font-size: 30px;
+      margin-left: 42%;
+    }
+    #location-L-1{
+      background: #FF0099;
+      height: 40px;
+      width: 40%;
+      float: left;
+      position: relative;
+    }
+    #location-R-1{
+      background: #CC00CC;
+      height: 40px;
+      width: 15%;
+      float:right;
+      position: relative;
+    }
+    #location-L-2{
+      background: #CC00CC;
+      height: 40px;
+      width: 15%;
+      float: left;
+      position: relative;
+    }
+    #location-R-2{
+      background: #FF0099;
+      height: 40px;
+      width: 40%;
+      float:right;
+      position: relative;
+    }
+  #goolge{
+  background: #66FF00;
+  color: #ffffff;
+  font-size: 35px;
+}
+#amazon{
+background: #2f2f2f;
+color: #ffffff;
+font-size: 35px;
+}
+#HPE{
+  background: #2f2f2f;
+  color: #ffffff;
+  font-size: 35px;
+}
+#Intel{
+  background: #00CCFF;
+  color: #ffffff;
+  font-size: 35px;
+}
+#HPE{
+  background: #2f2f2f;
+  color: #ffffff;
+  font-size: 35px;
+}
+#ME{
+  background: #FF0066;
+  color: #ffffff;
+  font-size: 35px;
+}
+#SKY{
+  background: #FF9900;
+  color: #ffffff;
+  font-size: 35px;
+}
+.subtittle{
+  font-size: 25px;
+}
+#read-block-L{
+  background-color:
+}
+#footer{
+  background-color: #2f2f2f;
+padding: 5px;
+
+}
+#footer-text{
+  font-size: 30px;
+  color: #ffffff;
+}
